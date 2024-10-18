@@ -1,0 +1,16 @@
+{
+  "not_found": "Page not found",
+  "email_required": "Email is required",
+  "email_invalid": "Email must be a valid email",
+  "username_required": "Username is required",
+  "password_required": "Password is required",
+  "password_no_long_enough": "Password must be at least {{min}} characters long",
+  "username_not_long_enough": "Username must be at least {{min}} characters long",
+  "title": "Homepage",
+  "message": "Welcome to the Book Shop!",
+  "welcome_user": "Hello, {{name}}!",
+  "cart_items_zero": "You have {{count}} items in your cart.",
+  "cart_items_one": "You have {{count}} item in your cart.",
+  "cart_items_other": "You have {{count}} items in your cart.",
+  "internal_server_error": "Internal server error"
+}

@@ -1,0 +1,16 @@
+{
+  "not_found": "Página não encontrada",
+  "email_required": "Email é obrigatório.",
+  "email_invalid": "Email deve ser válido",
+  "username_required": "Login é obrigatório.",
+  "password_required": "Senha é obrigatório.",
+  "password_no_long_enough": "Senha deve ter pelo menos {{min}} letras",
+  "username_not_long_enough": "Login deve ter pelo menos {{min}} letras",
+  "title": "Página principal",
+  "message": "Bem-vindo a loja de livros!",
+  "welcome_user": "Olá, {{name}}!",
+  "cart_items_zero": "Você tem {{count}} items no seu carrinho.",
+  "cart_items_one": "Você tem {{count}} item no seu carrinho.",
+  "cart_items_other": "Você tem {{count}} items no seu carrinho.",
+  "internal_server_error": "Erro interno no servidor."
+}
