@@ -6,7 +6,7 @@
   "password_required": "La contraseña es obligatoria",
   "password_no_long_enough": "La contraseña debe tener al menos {{min}} caracteres",
   "username_not_long_enough": "El nombre de usuario debe tener al menos {{min}} caracteres",
-  "title": "Página principal",
+  "title": "Página principalspanish)",
   "message": "¡Bienvenido a la librería!",
   "welcome_user": "¡Hola, {{name}}!",
   "cart_items_zero": "Tienes {{count}} artículos en tu carrito.",
