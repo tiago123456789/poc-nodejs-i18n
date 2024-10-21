@@ -15,11 +15,11 @@ i18next
       loadPath: path.join(__dirname, "locales", "{{lng}}", "{{ns}}.json"),
     },
     detection: {
-      order: ["querystring", "cookie"], // Language detection priority: query string first, then cookies
-      caches: ["cookie"], // Save the detected language in cookies
+      order: ["header", "querystring"],
+      lookupHeader: "accept-language",
     },
     fallbackLng: "pt",
-    preload: ["en", "pt"],
+    preload: ["en", "pt", "es"],
   });
 
 const PORT = 3000;
